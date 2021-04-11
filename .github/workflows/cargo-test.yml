@@ -1,4 +1,4 @@
-- name: rust-cargo
+name: rust-cargo
 
 jobs:
   test:
