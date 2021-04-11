@@ -1,0 +1,7 @@
+[package]
+name = "md5"
+version = "0.0.1"
+authors = ["pbootly <mthomas@polybit.io>"]
+edition = "2018"
+
+[dependencies]
