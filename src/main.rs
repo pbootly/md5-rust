@@ -413,8 +413,5 @@ mod test {
         test_hash(&"message digest".to_string(), "f96b697d7cb7938d525a2f31aaf161d0".to_string());
         test_hash(&"abcdefghijklmnopqrstuvwxyz".to_string(), "c3fcd3d76192e4007dfb496cca67e13b".to_string());
         test_hash(&"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".to_string(), "d174ab98d277d9f5a5611c2c9f419d9f".to_string());
-
-
-
     }
 }
